@@ -1,2 +1,2 @@
-# Strassenschilder_Klassifizierung
+# Strassenschilder_Klassifikation
 
