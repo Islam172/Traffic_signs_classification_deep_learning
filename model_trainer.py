@@ -1,4 +1,4 @@
-# Author: Gerhard Horst Reglich / Islam Elmaaroufi
+# Author Islam Elmaaroufi
 
 import os
 import numpy as np
