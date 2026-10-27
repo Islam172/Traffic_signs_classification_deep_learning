@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pickle
 import random
 
-# Beispielhafte Pfade (bitte ggf. anpassen)
+# Beispielhafte Pfade 
 output_dir = "/Users/mac/Desktop/Nachher"
 
 # Geladene Arrays
